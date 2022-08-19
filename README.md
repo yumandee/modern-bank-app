@@ -15,7 +15,7 @@
 
 - How to create reusable components in React
 - How to establish clean, readable code
-
+- How to enable responsiveness for different sized devices
 
 ### Credits
 
