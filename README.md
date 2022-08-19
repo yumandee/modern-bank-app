@@ -1,6 +1,6 @@
 # Modern Bank App
 
-**Description**: A Modern Bank Website to practice and learn modern UI/UX Design using TailwindCSS and React.
+**Description**: A fully responsive modern bank website to practice and learn modern UI/UX Design using TailwindCSS and React.
 
 
 <img src='https://i.imgur.com/tmqQezF.png' alt='preview' />
