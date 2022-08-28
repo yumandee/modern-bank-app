@@ -2,6 +2,7 @@
 
 **Description**: A fully responsive modern bank website to practice and learn modern UI/UX Design using TailwindCSS and React.
 
+**Link**: https://modernbankofmandy.netlify.app
 
 <img src='https://i.imgur.com/tmqQezF.png' alt='preview' />
 
